@@ -11,4 +11,4 @@ Save change
 Move from unstaged changes to staged changes
 add commit message
 commit to <branch name>
-Click Push
+Click Push 
