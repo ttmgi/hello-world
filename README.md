@@ -12,3 +12,7 @@ Move from unstaged changes to staged changes
 add commit message
 commit to <branch name>
 Click Push
+
+
+Testing git-plus package for atom
+using command menu to commit
