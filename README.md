@@ -16,3 +16,6 @@ Click Push
 
 Testing git-plus package for atom
 using command menu to commit
+
+
+testing command line commands
